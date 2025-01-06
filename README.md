@@ -1,8 +1,6 @@
 ## About the game
 
-Forest Walk is a first-person horror game set in a desolate, remote forest. The player awakens alone in an unfamiliar wilderness, with only a nearby house to guide them. As they explore the house, they will uncover clues that slowly unravel the mystery behind their amnesia and the strange circumstances that led them to this eerie forest. Each discovery brings them closer to understanding why they woke up in this isolated place—and what dark secrets lie hidden within the woods.
-
-Currently, Forest Walk is a prototype in development. While the landscape has been fully designed, the house, a key element of the game, has yet to be added. The game is still evolving, with ongoing work to bring the environment and story to life. Below are some screenshots showcasing the current look of Forest Walk, along with a short video to illustrate the gameplay and give you a glimpse of the experience.
+Forest Walk immerses players in a captivating first-person horror experience set within a mysterious, remote forest. You awaken suddenly among towering, shadowed trees with no recollection of how you arrived in this eerie wilderness. An introductory segment misleadingly directs you to search for a house that ultimately does not exist, further amplifying your sense of despair. Every rustle and whisper in the dense, mist-covered woods heightens the tension, propelling you deeper in search of answers. However, Forest Walk provides no traditional conclusion—its lack of a definite ending forces you into endless exploration, weaving an unsettling realization that you’re trapped in an unescapable wilderness
 
 You can download the game from Google Drive:
 
